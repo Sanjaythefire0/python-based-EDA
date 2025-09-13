@@ -1,6 +1,4 @@
-Got it 🚀 — here’s a clean, professional **GitHub README.md** you can use for your EDA notebook project. I’ll keep it structured and beginner-friendly but also professional enough to look good on GitHub.
 
----
 
 # 📊 Exploratory Data Analysis (EDA) & Feature Engineering
 
@@ -101,20 +99,3 @@ jupyter notebook notebooks/EDA_FeatureEngineering.ipynb
 * **Matplotlib, Seaborn** – visualization
 * **Scikit-learn** – preprocessing (scaling, encoding, splitting)
 
----
-
-## 🚀 Next Steps
-
-* Build ML models on the cleaned datasets.
-* Compare performance before and after feature engineering.
-* Automate EDA with reusable functions.
-
----
-
-## 📜 License
-
-This project is open-source. Feel free to fork, improve, and use it in your own work.
-
----
-
-👉 Would you like me to also create a **`requirements.txt` file** for you with all the necessary packages (pandas, numpy, seaborn, sklearn, etc.) so you can include it in the repo?
